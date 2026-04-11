@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4","Создание Issue для авторизованного пользователя","","Sat Apr 11 12:27:42 UTC 2026","passed","Sat Apr 11 12:27:42 UTC 2026","","qa.guru.allure.LabelsTest","qa.guru.allure.LabelsTest","testDynamicLabels"
+"","2","Создание Issue для авторизованного пользователя","","Sat Apr 11 12:27:42 UTC 2026","passed","Sat Apr 11 12:27:42 UTC 2026","","qa.guru.allure.LabelsTest","qa.guru.allure.LabelsTest","testStaticLabels"
+"","6780","testLambdaStep()","","Sat Apr 11 12:27:58 UTC 2026","passed","Sat Apr 11 12:28:04 UTC 2026","","qa.guru.allure.StepsTest","qa.guru.allure.StepsTest","testLambdaStep"
+"","6944","testAnnotatedStep()","","Sat Apr 11 12:27:51 UTC 2026","passed","Sat Apr 11 12:27:58 UTC 2026","","qa.guru.allure.StepsTest","qa.guru.allure.StepsTest","testAnnotatedStep"
+"","4177","testLambdaAttachments()","","Sat Apr 11 12:27:36 UTC 2026","passed","Sat Apr 11 12:27:41 UTC 2026","","qa.guru.allure.AttachmentsTest","qa.guru.allure.AttachmentsTest","testLambdaAttachments"
+"","8219","testIssueSearch()","","Sat Apr 11 12:27:42 UTC 2026","passed","Sat Apr 11 12:27:51 UTC 2026","","qa.guru.allure.SelenideTest","qa.guru.allure.SelenideTest","testIssueSearch"
+"","1692","testAnnotatedAttachments()","","Sat Apr 11 12:27:41 UTC 2026","passed","Sat Apr 11 12:27:42 UTC 2026","","qa.guru.allure.AttachmentsTest","qa.guru.allure.AttachmentsTest","testAnnotatedAttachments"
