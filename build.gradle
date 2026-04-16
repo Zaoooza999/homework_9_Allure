@@ -25,13 +25,6 @@ dependencies {
     testImplementation ('io.qameta.allure:allure-selenide:2.33.0')
 }
 
-tasks.withType(Test) {
+test {
     useJUnitPlatform()
-
-    testLogging {
-        lifecycle {
-            events "started", "skipped", "failed", "standard_error", "standard_out"
-            exceptionFormat "short"
-        }
-    }
 }
